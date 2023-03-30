@@ -684,7 +684,7 @@ a {
 }
 #footer .footer-top .footer-contact h3:hover {
     font-size: 26px;
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
 }
 
 
@@ -696,7 +696,7 @@ a {
 }
 #footer .footer-top h4:hover {
     font-size: 20px;
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
 }
 
 #footer .footer-top .footer-links {
@@ -728,7 +728,7 @@ a {
 #footer .footer-top .footer-links ul a:hover {
     color: #faf9d0;
     font-size: 16px;
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
 }
 
 #footer .footer-top .social-links img {
