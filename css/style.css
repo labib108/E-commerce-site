@@ -22,7 +22,8 @@ a {
     border-radius: 55%;
 }
 #header .logo img:hover{
-    transform: rotate(15deg);
+    transform: rotate(360deg);
+    transition: 1.5s;
 }
 .navbar {
     padding: 0px;
@@ -178,8 +179,18 @@ a {
     background: #209dd8;
 }
 
-
-
+#hero .hero-img .animated {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+  @keyframes up-down {
+    0% {
+      transform: translateY(10px);
+    }
+  
+    100% {
+      transform: translateY(-10px);
+    }
+  }
 #about{
     background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)),
         url("../img/cta-bg.jpg") fixed center center;
