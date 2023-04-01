@@ -1,6 +1,0 @@
-style1.css ==> bootstarp.min.css
-style2.css ==>bootstrap-icons
-style3.css ==> boxicons.min.css
-style4.css ==> glightbox.min
-style5.css ==> remixicon.css
-style6.css ==> swiper-bundle.min.css
